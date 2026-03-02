@@ -25,33 +25,55 @@ metaLinks:
 
 ## Introdução
 
-A Inteligência Artificial (IA) é uma área de pesquisa da Ciência da Computação que estuda como realizar os comportamentos inteligentes dos seres humanos em um computador. O objetivo final da IA é fazer com que o computador possa aprender, planejar e resolver problemas de maneira autônoma. Embora a IA tenha sido estudada por mais de meio século, ainda não é possível criar um computador tão inteligentes como os seres humanos em todos os aspectos. Entretanto, é possível criar diversas aplicações bem sucedidas. Em alguns casos, um computador equipado com IA pode ser até mais inteligente que nós humanos.
+A **Programação Orientada a Objetos (POO)** é um paradigma de desenvolvimento de software fundamentado na modelagem de sistemas a partir de entidades chamadas objetos, os quais combinam estado (atributos) e comportamento (métodos). Este paradigma se diferencia da programação estruturada ao enfatizar a modularidade, a reutilização de código e a abstração, tornando-se essencial no desenvolvimento de sistemas complexos, escaláveis e de fácil manutenção.
 
-As principais áreas de estudo da IA incluem: resolução de problemas, raciocínio, planejamento, entendimento de linguagem natural, visão computacional, programação automática, aprendizado de máquina, entre outras.
+A POO tem suas raízes em conceitos matemáticos e linguagens como Simula e Smalltalk, e consolidou-se por meio de linguagens amplamente utilizadas, como Java, C++, Python e C#. No contexto atual da Engenharia de Software, a orientação a objetos é a base para a maioria dos frameworks modernos, bibliotecas, arquiteturas corporativas e práticas de desenvolvimento ágil.
+
+Por meio da POO, o desenvolvedor pode representar elementos do mundo real no código de forma mais intuitiva e estruturada, favorecendo a compreensão, a manutenção e a evolução dos sistemas. Além disso, conceitos como encapsulamento, herança e polimorfismo permitem criar soluções mais robustas, seguras e adaptáveis.
 
 ## Objetivos do curso
 
-Neste curso, nós vamos estudar os conceitos fundamentais para o entendimento da IA. Os tópicos estudados serão:
+Neste curso, estudaremos os fundamentos da Programação Orientada a Objetos utilizando a linguagem **Dart** como principal ferramenta de desenvolvimento. Os tópicos que serão abordados incluem:
 
-* Introdução à I.A.
-* Introdução a Agentes Inteligentes
-* Resolução de Problemas por meio de Busca
-  * Busca Heurística (Busca Gulosa, A\*, Hill Climbing, Simulated Annealing)
-  * Busca Competitiva (Minimax)
-* Conhecimento e Raciocínio
-  * Lógica de Primeira Ordem
-  * Programação em Lógica (Prolog)
-  * Inferência em Lógica de Primeira Ordem
-* Conhecimento Incerto e Raciocínio (Redes Bayesianas, Modelos Ocultos de Markov)
+* **Fundamentos da Orientação a Objetos**
+  * Comparação entre paradigmas estruturado e orientado a objetos
+  * Conceito de classes e objetos
+  * Propriedades (atributos) e métodos
+* **Encapsulamento e Modularidade**
+  * Controle de acesso
+  * Métodos getters e setters
+  * Boas práticas de encapsulamento
+* **Construção de Aplicações Orientadas a Objetos**
+  * Construtores
+  * Gerenciamento automático de memória
+  * Modelagem de entidades
+* **Herança e Reutilização**
+  * Herança simples
+  * Implementação de múltiplos comportamentos por meio de interfaces e mixins
+  * Classes abstratas
+  * Reutilização e extensão de código
+* **Polimorfismo**
+  * Polimorfismo de sobrecarga (ad hoc)
+  * Polimorfismo de sobrescrita (inclusivo)
+  * Aplicações práticas do uso de polimorfismo
+* **Tipos Abstratos de Dados (TAD)**
+  * Modelagem de estruturas como pilhas, filas e listas
+  * Implementações práticas com classes
+* **Aplicabilidade da POO**
+  * Organização de aplicações em camadas (ex.: MVC)
+  * Manipulação de arquivos e persistência de dados
+  * Integração com bibliotecas e pacotes do ecossistema Dart
 
-## Referências bibliográficas
+## Referências Bibliográficas
 
-\[1] S. J. Russell & P. Norvig. **Artificial Intelligence: A Modern Approach.** Prentice Hall, 3rd edition, 2010.
+1. FÉLIX, Rafael (org.). **Programação orientada a objetos**. São Paulo: Pearson, 2016.
+2. FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de programação: a construção de algoritmos e estruturas de dados com aplicações em Python**. 4. ed. São Paulo: Grupo A, 2022.
+3. SANTOS, Rafael. **Introdução à programação orientada a objetos usando Java**. Rio de Janeiro: Campus, 2003.
+4. DEITEL, Harvey M. **Java: como programar**. 6. ed. São Paulo: Pearson, 2005.
+5. LEDUR, Cleverson L. **Desenvolvimento de sistemas com C#**. Porto Alegre: Sagah, 2018.
+6. RODRIGUES, Thiago N. **Estrutura de dados em Java**. Porto Alegre: Sagah, 2021.
+7. VERSOLATTO, Fabio. **Sistemas orientados a objetos: conceitos e práticas**. Rio de Janeiro: Freitas Bastos, 2023.
+8. SINTES, Anthony. **Aprenda programação orientada a objetos em 21 dias**. São Paulo: Pearson, 2002.
 
-\[2] E. Rich e K. Knight. **Inteligência Artificial.** Makron Books, 1993.
 
-\[3] T. M. Mitchell. **Machine Learning.** McGraw–Hill Science/Engineering/Math, 1997.
 
-\[4] S. O. Rezende. **Sistemas Inteligentes: Fundamentos e Aplicações.** Barueri: Manole, 2003.
-
-\[5] M. Wooldridge. **An Introduction To Multiagent Systems.** Wiley, ISBN: 0470519460, 2009.

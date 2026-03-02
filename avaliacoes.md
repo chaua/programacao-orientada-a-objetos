@@ -25,13 +25,13 @@ metaLinks:
 
 ## Estudos dirigidos
 
-17/04/2026\
-📄 **ED 1: Análise comparativa de algoritmos de busca**
+semanal\
+📄 **ED 1: Lista de exercícios**
 
 ***
 
-19/06/2026\
-📄 **ED 2: Utilização de algoritmos genéticos para problemas de escalonamento**
+semanal\
+📄 **ED 2: Lista de exercícios**
 
 ***
 
@@ -39,12 +39,12 @@ metaLinks:
 
 ## Provas
 
-17/04/2026\
+15/04/2026\
 ✏️ **Prova 1º Bimestre**
 
 ***
 
-19/06/2026\
+17/06/2026\
 ✏️ **Prova 2º Bimestre**
 
 ***

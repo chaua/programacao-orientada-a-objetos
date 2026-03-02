@@ -27,96 +27,96 @@ metaLinks:
 ## 1º Bimestre
 
 23/02/2026\
-📕 **Apresentação da disciplina**\
-Apresentação do Plano de Ensino, Plano de Aula e Plano de Estudo Dirigido. Introdução à disciplina, funcionamento dos Estudos Dirigidos (ED 1 e ED 2) e critérios de avaliação.
+📙 **Apresentação da disciplina**\
+Apresentação do Plano de Ensino, Plano de Aula e Plano de Estudo Dirigido. Introdução à disciplina. Organização dos Estudos Dirigidos (ED1 e ED2).
 
 ***
 
-27/02/2026\
-📕 **Aula 01: Escrita Científica**\
-Fundamentos da escrita científica em trabalhos acadêmicos. Normas e boas práticas.
+25/02/2026\
+📙 **Aula 01: Paradigmas de Programação**\
+Comparação entre paradigmas estruturado e orientado a objetos com exemplos em pseudocódigo.
 
 ***
 
 02/03/2026\
-📕 **Aula 02: Introdução à IA**\
-Conceito, história, evolução e impacto social da Inteligência Artificial.
+💻 **Oficina: Pesquisa sobre OO**\
+Pesquisa orientada sobre conceitos de orientação a objetos em diferentes linguagens e construção de síntese comparativa.
 
 ***
 
-06/03/2026\
-📕 **Aula 03: História da IA**\
-Principais marcos históricos e evolução da IA até os dias atuais.
+04/03/2026\
+📙 **Aula 02: Introdução ao Dart**\
+Tipos de dados, variáveis, operadores e estruturas de controle em Dart.
 
 ***
 
 09/03/2026\
-📕 **Aula 04: Agentes Inteligentes**\
-Conceitos, tipos de agentes e aplicações práticas.
+💻 **Oficina: Programação Dart Básico**\
+Exercícios de fixação com estruturas de decisão, repetição e operações básicas em Dart.
 
 ***
 
-13/03/2026\
-📕 **Aula 05: Ambientes e Problemas de Busca**\
-Estruturas de problemas, espaços de estados e ambientes de busca.
+11/03/2026\
+📙 **Aula 03: Classes e Objetos – Parte 1**\
+Definição de classes, objetos, atributos e métodos na orientação a objetos.
 
 ***
 
 16/03/2026\
-📕 **Aula 06: Busca sem Informação**\
-Algoritmos de busca em largura, profundidade e aprofundamento iterativo.
+💻 **Oficina: Classes e Objetos – Parte 1**\
+Exercícios de criação de classes simples e interação entre objetos.
 
 ***
 
-20/03/2026\
-💻 **Oficina: Busca sem Informação**\
-Implementação prática dos algoritmos de busca sem informação.
+18/03/2026\
+📙 **Aula 04: Classes e Objetos – Parte 2**\
+Criação de classes com atributos e métodos, instanciando objetos em Dart.
 
 ***
 
 23/03/2026\
-📕 **Aula 07: Busca Informada**\
-Algoritmos A\* e Busca Gulosa. Comparação e aplicações.
+💻 **Oficina: Classes e Objetos – Parte 2**\
+Exercícios de modelagem e interação entre objetos.
 
 ***
 
-27/03/2026\
-💻 **Oficina: Busca Informada**\
-Desenvolvimento de algoritmos de busca informada.
+25/03/2026\
+📙 **Aula 05: Construtores e Gerenciamento de Memória**\
+Definição e sobrecarga de construtores. Noções sobre gerenciamento automático de memória (Garbage Collector).
 
 ***
 
 30/03/2026\
-📕 **Aula 08: Busca Local – Parte 1**\
-Conceitos e introdução ao Hill Climbing e Simulated Annealing.
+💻 **Oficina: Construtores em Dart**\
+Criação e sobrecarga de construtores com diferentes parâmetros.
 
 ***
 
-03/04/2026\
-🎉 **Feriado – Sexta-feira Santa**\
-Atividade: Lista de Exercícios – Busca Local.
+01/04/2026\
+📙 **Aula 06: Encapsulamento**\
+Importância do encapsulamento para integridade dos dados e modularização.
 
 ***
 
 06/04/2026\
-📕 **Aula 09: Busca Local – Parte 2**\
-Aplicação avançada de técnicas de busca local e heurísticas.
+💻 **Oficina: Encapsulamento em Dart**\
+Prática com uso de getters e setters e controle de acesso.
 
 ***
 
-10/04/2026\
-💻 **Oficina 03: Busca Local**\
-Implementação de Hill Climbing e Simulated Annealing.
+08/04/2026\
+📙 **Aula 07: Comunicação entre Classes**\
+Conceitos de relacionamento e comunicação entre classes.
 
 ***
 
 13/04/2026\
-📕 **Aula 10: Busca Competitiva**\
-Algoritmo MinMax e aplicações em jogos e estratégias de decisão.
+💻 **Oficina: Projeto OO Simples**\
+Miniaplicação orientada a objetos consolidando os conteúdos do primeiro bimestre.
 
 ***
 
-17/04/2026\
+15/04/2026\
 📝 **Prova 1º Bimestre**\
 Avaliação abrangendo conteúdos teóricos e práticos do primeiro bimestre e entrega do Estudo Dirigido.
 
@@ -127,110 +127,110 @@ Avaliação abrangendo conteúdos teóricos e práticos do primeiro bimestre e e
 ## 2º Bimestre
 
 20/04/2026\
-📖 **Recesso – Tiradentes**\
-Atividade: Leitura Dirigida – Metaheurísticas.
+🏝️ **Recesso (Tiradentes) – Atividade Assíncrona**\
+Leitura dirigida sobre Herança e Interfaces em Dart com registro de síntese.
 
 ***
 
-24/04/2026\
-📕 **Aula 11: Metaheurísticas**\
-Conceitos e princípios das metaheurísticas e sua importância na IA.
+22/04/2026\
+📙 **Aula 08: Herança Simples**\
+Introdução à herança simples, sintaxe e reutilização de código em Dart.
 
 ***
 
 27/04/2026\
-📕 **Aula 12: Computação Evolutiva**\
-Fundamentos de computação evolutiva e introdução aos algoritmos genéticos.
+💻 **Oficina: Herança Simples em Dart**\
+Exercícios práticos com hierarquias simples de classes.
 
 ***
 
-01/05/2026\
-🎉 **Feriado – Dia do Trabalhador**\
-Atividade: Lista de Exercícios – Algoritmos Genéticos (Teórica).
+29/04/2026\
+📙 **Aula 09: Herança Múltipla e Interfaces**\
+Implementação de múltiplos comportamentos utilizando `implements` e mixins em Dart.
 
 ***
 
 04/05/2026\
-📕 **Aula 13: Algoritmos Genéticos – Parte 1**\
-Fundamentos e operadores genéticos.
+💻 **Oficina: Interfaces em Dart**\
+Exercícios práticos aplicando interfaces.
 
 ***
 
-08/05/2026\
-💻 **Oficina: Algoritmos Genéticos**\
-Implementação de algoritmo genético para otimização.
+06/05/2026\
+📙 **Aula 10: Classes Abstratas**\
+Criação e uso de classes abstratas e métodos abstratos.
 
 ***
 
 11/05/2026\
-📕 **Aula 14: Algoritmos Genéticos – Parte 2**\
-Variações e aplicações dos algoritmos genéticos.
+📙 **Aula 11: Polimorfismo**\
+Conceito de sobrecarga e sobrescrita de métodos.
 
 ***
 
-15/05/2026\
-💻 **Oficina: Algoritmos Genéticos**\
-Aprimoramento da implementação para otimização.
+13/05/2026\
+💻 **Oficina: Polimorfismo em Dart**\
+Aplicação prática de sobrescrita e polimorfismo em hierarquias de classes.
 
 ***
 
 18/05/2026\
-📕 **Aula 15: Inteligência em Enxames**\
-Conceitos e aplicações das técnicas PSO e ACO.
+📙 **Aula 12: Sobrecarga de Operadores**\
+Conceito e aplicação de sobrecarga de operadores em Dart.
 
 ***
 
-22/05/2026\
-💻 **Oficina: PSO**\
-Codificação e teste do algoritmo Particle Swarm Optimization.
+20/05/2026\
+📙 **Aula 13: Tipos Genéricos e Membros Estáticos**\
+Introdução a generics e uso de atributos e métodos estáticos em Dart.
 
 ***
 
 25/05/2026\
 🎓 **Semana Acadêmica**\
-Participação em palestras e eventos da área de computação.
+Participação em palestras e atividades da semana acadêmica de computação.
 
 ***
 
-29/05/2026\
+27/05/2026\
 🎓 **Semana Acadêmica**\
-Participação em palestras e eventos da área de computação.
+Participação em palestras e atividades da semana acadêmica de computação.
 
 ***
 
 01/06/2026\
-📕 **Aula 16: Introdução ao Raciocínio Lógico**\
-Fundamentos da lógica aplicada à IA.
+💻 **Oficina: Projeto MVC**\
+Desenvolvimento de aplicação orientada a objetos utilizando padrão arquitetural MVC.
 
 ***
 
-05/06/2026\
-📖 **Recesso – Corpus Christi**\
-Atividade: Leitura Dirigida – Programação Lógica.
+03/06/2026\
+📙 **Aula 14: Padrão DAO/VO – Manipulação de Arquivos**\
+Aplicação dos padrões DAO e VO para manipulação de arquivos em Dart.
 
 ***
 
 08/06/2026\
-📕 **Aula 17: Introdução à Programação Lógica**\
-Fundamentos e sintaxe da linguagem Prolog.
+📙 **Aula 15: Banco de Dados**\
+Conceitos de conexão e manipulação de banco de dados relacional com Dart.
 
 ***
 
-12/06/2026\
-📕 **Aula 18: Programação em Prolog**\
-Representação de conhecimento e inferência.
+10/06/2026\
+📙 **Aula 16: Tratamento de Exceções**\
+Conceitos e prática de tratamento de exceções em Dart.
 
 ***
 
 15/06/2026\
-💻 **Oficina: Programação em Prolog**\
-Implementação de regras e bases de conhecimento.
+💻 **Oficina: Padrões de Projeto**\
+Implementação prática de padrões de projeto orientados a objetos.
 
 ***
 
-19/06/2026\
+17/06/2026\
 📝 **Prova 2º Bimestre**\
-Avaliação abrangendo conteúdos teóricos e práticos do segundo bimestre e entrega do Estudo Dirigido.
+Avaliação teórica e prática abrangendo os conteúdos do segundo bimestre. Entrega do Estudo Dirigido (16h).
 
 ***
 
