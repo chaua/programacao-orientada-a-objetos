@@ -54,6 +54,8 @@ Tipos de dados, variáveis, operadores e estruturas de controle em Dart.
 💻 **Oficina: Programação Dart Básico**\
 Exercícios de fixação com estruturas de decisão, repetição e operações básicas em Dart.
 
+{% file src=".gitbook/assets/Oficina - Programação Dart.pdf" %}
+
 ***
 
 11/03/2026\

@@ -25,7 +25,9 @@ metaLinks:
 
 ## Bibliografia
 
-* SINTES, Anthony. **Aprenda programação orientada a objetos em 21 dias**. São Paulo: Pearson, 2002.
+* SINTES, Anthony. **Aprenda programação orientada a objetos em 21 dias**. São Paulo: Pearson, 2002.&#x20;
+
+{% file src=".gitbook/assets/Aprenda programação orientada a objetos em 21 dias.pdf" %}
 
 ***
 
