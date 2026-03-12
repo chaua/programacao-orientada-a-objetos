@@ -62,6 +62,8 @@ Exercícios de fixação com estruturas de decisão, repetição e operações b
 📙 **Aula 03: Classes e Objetos – Parte 1**\
 Definição de classes, objetos, atributos e métodos na orientação a objetos.
 
+{% file src=".gitbook/assets/POO.pdf" %}
+
 ***
 
 16/03/2026\
