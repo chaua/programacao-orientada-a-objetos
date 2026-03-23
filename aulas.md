@@ -82,6 +82,8 @@ Criação de classes com atributos e métodos, instanciando objetos em Dart.
 💻 **Oficina: Classes e Objetos – Parte 2**\
 Exercícios de modelagem e interação entre objetos.
 
+<a href="avaliacoes.md#estudos-dirigidos" class="button primary" data-icon="pen-line">Lista de exercícios - ED 1</a>
+
 ***
 
 25/03/2026\
