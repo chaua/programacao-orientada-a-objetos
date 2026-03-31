@@ -26,14 +26,16 @@ metaLinks:
 ## Estudos dirigidos
 
 30/03\
-📄 **ED 1 - Lista de exercícios**
+📄 **ED 1.1 - Lista de exercícios**
 
 {% file src=".gitbook/assets/ED1 - Lista de Exercícios.pdf" %}
 
 ***
 
-semanal\
-📄 **ED 2: Lista de exercícios**
+06/04\
+📄 **ED 1.2: Lista de exercícios**
+
+{% file src=".gitbook/assets/ED1.2 - Lista de Exercícios.pdf" %}
 
 ***
 
