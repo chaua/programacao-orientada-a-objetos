@@ -39,7 +39,16 @@ metaLinks:
 
 ***
 
+13/04\
+📄 **ED 1.3: Lista de exercícios**
 
+{% file src=".gitbook/assets/ED1.3 - Lista de Exercícios.pdf" %}
+
+***
+
+
+
+##
 
 ## Provas
 
