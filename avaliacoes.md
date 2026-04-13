@@ -1,5 +1,6 @@
 ---
 noIndex: true
+icon: pen-line
 layout:
   width: default
   title:
@@ -21,14 +22,14 @@ metaLinks:
     - https://app.gitbook.com/s/rXEEaCo4s5Nzp0fD3eOo/avaliacoes
 ---
 
-# 📝 Avaliações
+# Avaliações
 
 ## Estudos dirigidos
 
 30/03\
 📄 **ED 1.1 - Lista de exercícios**
 
-{% file src=".gitbook/assets/ED1 - Lista de Exercícios.pdf" %}
+{% file src=".gitbook/assets/ED1.1 - Lista de Exercícios.pdf" %}
 
 ***
 
@@ -54,6 +55,8 @@ metaLinks:
 
 15/04/2026\
 ✏️ **Prova 1º Bimestre**
+
+{% file src=".gitbook/assets/prova01-2025.pdf" %}
 
 ***
 
