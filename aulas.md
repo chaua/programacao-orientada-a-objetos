@@ -117,7 +117,7 @@ Conceitos de relacionamento e comunicação entre classes.
 <i class="fa-computer">:computer:</i> **Oficina: Projeto OO Simples**\
 Miniaplicação orientada a objetos consolidando os conteúdos do primeiro bimestre.
 
-atividade
+{% file src=".gitbook/assets/Oficina - Relacionamento.pdf" %}
 
 ***
 
