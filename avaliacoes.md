@@ -47,9 +47,12 @@ metaLinks:
 
 ***
 
+29/04\
+📄 **ED 2.1: Lista de exercícios**
+
+{% file src=".gitbook/assets/ED2.1 - Lista de Exercícios.pdf" %}
 
 
-##
 
 ## Provas
 
