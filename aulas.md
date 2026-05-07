@@ -40,7 +40,7 @@ Comparação entre paradigmas estruturado e orientado a objetos com exemplos em 
 ***
 
 02/03/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Pesquisa sobre OO**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Pesquisa sobre OO**\
 Pesquisa orientada sobre conceitos de orientação a objetos em diferentes linguagens e construção de síntese comparativa.
 
 ***
@@ -52,7 +52,7 @@ Tipos de dados, variáveis, operadores e estruturas de controle em Dart.
 ***
 
 09/03/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Programação Dart Básico**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Programação Dart Básico**\
 Exercícios de fixação com estruturas de decisão, repetição e operações básicas em Dart.
 
 ***
@@ -64,7 +64,7 @@ Definição de classes, objetos, atributos e métodos na orientação a objetos.
 ***
 
 16/03/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Classes e Objetos – Parte 1**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Classes e Objetos – Parte 1**\
 Exercícios de criação de classes simples e interação entre objetos.
 
 atividade
@@ -78,7 +78,7 @@ Criação de classes com atributos e métodos, instanciando objetos em Dart.
 ***
 
 23/03/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Classes e Objetos – Parte 2**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Classes e Objetos – Parte 2**\
 Exercícios de modelagem e interação entre objetos.
 
 ***
@@ -90,7 +90,7 @@ Definição e sobrecarga de construtores. Noções sobre gerenciamento automáti
 ***
 
 30/03/2026\
-<i class="fa-computer">:computer:</i>  **Oficina: Construtores em Dart**\
+<i class="fa-computer" style="color:$primary;">:computer:</i>  **Oficina: Construtores em Dart**\
 Criação e sobrecarga de construtores com diferentes parâmetros.
 
 ***
@@ -102,7 +102,7 @@ Importância do encapsulamento para integridade dos dados e modularização.
 ***
 
 06/04/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Encapsulamento em Dart**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Encapsulamento em Dart**\
 Prática com uso de getters e setters e controle de acesso.
 
 ***
@@ -114,7 +114,7 @@ Conceitos de relacionamento e comunicação entre classes.
 ***
 
 13/04/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Projeto OO Simples**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Projeto OO Simples**\
 Miniaplicação orientada a objetos consolidando os conteúdos do primeiro bimestre.
 
 {% file src=".gitbook/assets/Oficina - Relacionamento.pdf" %}
@@ -122,7 +122,7 @@ Miniaplicação orientada a objetos consolidando os conteúdos do primeiro bimes
 ***
 
 15/04/2026\
-<i class="fa-computer">:computer:</i> **Prova 1º Bimestre**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Prova 1º Bimestre**\
 Avaliação abrangendo conteúdos teóricos e práticos do primeiro bimestre e entrega do Estudo Dirigido.
 
 ***
@@ -132,7 +132,7 @@ Avaliação abrangendo conteúdos teóricos e práticos do primeiro bimestre e e
 ## 2º Bimestre
 
 20/04/2026\
-<i class="fa-umbrella-beach">:umbrella-beach:</i> **Recesso (Tiradentes) – Atividade Assíncrona**\
+<i class="fa-umbrella-beach" style="color:$primary;">:umbrella-beach:</i> **Recesso (Tiradentes) – Atividade Assíncrona**\
 Leitura dirigida sobre Herança e Interfaces em Dart com registro de síntese.
 
 ***
@@ -144,7 +144,7 @@ Introdução à herança simples, sintaxe e reutilização de código em Dart.
 ***
 
 27/04/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Herança Simples em Dart**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Herança Simples em Dart**\
 Exercícios práticos com hierarquias simples de classes.
 
 ***
@@ -156,7 +156,7 @@ Implementação de múltiplos comportamentos utilizando `implements` e mixins em
 ***
 
 04/05/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Interfaces em Dart**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Interfaces em Dart**\
 Exercícios práticos aplicando interfaces.
 
 ***
@@ -174,7 +174,7 @@ Conceito de sobrecarga e sobrescrita de métodos.
 ***
 
 13/05/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Polimorfismo em Dart**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Polimorfismo em Dart**\
 Aplicação prática de sobrescrita e polimorfismo em hierarquias de classes.
 
 ***
@@ -192,19 +192,19 @@ Introdução a generics e uso de atributos e métodos estáticos em Dart.
 ***
 
 25/05/2026\
-<i class="fa-graduation-cap">:graduation-cap:</i> **Semana Acadêmica**\
+<i class="fa-graduation-cap" style="color:$primary;">:graduation-cap:</i> **Semana Acadêmica**\
 Participação em palestras e atividades da semana acadêmica de computação.
 
 ***
 
 27/05/2026\
-<i class="fa-graduation-cap">:graduation-cap:</i> **Semana Acadêmica**\
+<i class="fa-graduation-cap" style="color:$primary;">:graduation-cap:</i> **Semana Acadêmica**\
 Participação em palestras e atividades da semana acadêmica de computação.
 
 ***
 
 01/06/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Projeto MVC**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Projeto MVC**\
 Desenvolvimento de aplicação orientada a objetos utilizando padrão arquitetural MVC.
 
 ***
@@ -228,25 +228,25 @@ Conceitos e prática de tratamento de exceções em Dart.
 ***
 
 15/06/2026\
-<i class="fa-computer">:computer:</i> **Oficina: Padrões de Projeto**\
+<i class="fa-computer" style="color:$primary;">:computer:</i> **Oficina: Padrões de Projeto**\
 Implementação prática de padrões de projeto orientados a objetos.
 
 ***
 
 17/06/2026\
-<i class="fa-pen-line">:pen-line:</i> **Prova 2º Bimestre**\
+<i class="fa-pen-line" style="color:$primary;">:pen-line:</i> **Prova 2º Bimestre**\
 Avaliação teórica e prática abrangendo os conteúdos do segundo bimestre. Entrega do Estudo Dirigido (16h).
 
 ***
 
 22/06/2026\
-<i class="fa-pen-line">:pen-line:</i> **Segunda Chamada – 1º e 2º Bimestres**\
+<i class="fa-pen-line" style="color:$primary;">:pen-line:</i> **Segunda Chamada – 1º e 2º Bimestres**\
 Prova de reposição conforme regulamento institucional.
 
 ***
 
 29/06/2026\
-<i class="fa-pen-line">:pen-line:</i> **Prova Final**\
+<i class="fa-pen-line" style="color:$primary;">:pen-line:</i> **Prova Final**\
 Avaliação integrativa dos conteúdos do semestre.
 
 ***
