@@ -1,5 +1,4 @@
 ---
-hidden: true
 noIndex: true
 icon: folder-open
 layout:
@@ -17,6 +16,8 @@ layout:
   metadata:
     visible: false
   tags:
+    visible: true
+  actions:
     visible: true
 metaLinks:
   alternates:
