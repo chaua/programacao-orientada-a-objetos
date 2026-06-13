@@ -1,0 +1,45 @@
+
+1. Assoaciação
+
+Aluno --- realiza --- Matrícula
+Professor --- lança --- DiarioClasse
+Cachorro --- come --- Ração
+Heroi --- nocauteia --- Vilão
+
+2. Agregação
+
+possui / contém / tem
+
+Cliente <>------ Endereço
+Lista <>------ Item
+Pessoa <>----- Órgão
+Aluno <>------ Disciplina
+
+3. Composição
+
+possui / contém / tem
+
+Pessoa <.>----- Órgão
+Vendas <.>----- ItemVenda
+
+4. Herança
+
+é um / é uma (is a)
+
+Pessoa <|------- Aluno
+Cliente <|------ Endereço  xxxx
+Banco <|------- Agencia xxxx
+
+
+NumeroReal <|----- NumeroInteiro <|---- NumeroNatural
+
+
+
+
+
+Effective Java
+Effective C++
+Effective Dart
+
+
+

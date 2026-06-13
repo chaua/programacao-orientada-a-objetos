@@ -1,0 +1,114 @@
+
+Herança Simples
+---------------
+1 classe pai .. n classes filhas
+
+Herança Múltipla
+---------------
+1 classe filha .. n classes pai
+
+
+Homem
+- nome
+- cpf
+- aniversario
++ falar()
++ conversar()
++ andar()
+
+
+Aranha
+- veneno
+- presas
++ soltarTeias()
++ picar()
++ escalarParedes()
+
+HomemAranha: Homem, Aranha
++ soltarTeias() <- sobrescrita de métodos @override
+
+
+
+                A 
+                atributoX
+                somarX()
+
+
+        B                          C
+        (atributoX)             (atributoX)
+        mudarX()                alterarX()
+
+
+                D 
+                B:atributoX 
+                C:atributoX
+                mudarX()
+                alterarX()
+                somarX()
+
+
+INTERFACE
+---------
+    - Funciona como um contrato entre duas classes
+    - Composta apenas por métodos abstratos
+        - Método sem implementação
+        - Somente a assinatura do método
+    - OBRIGATORIAMENTE a classe precisa implementar os metodos
+
+    - Utilizamos adverbios para dar nome 
+
+
+abstract interface class Imprimivel {
+    void imprimir();
+}
+
+abstract interface class Auditavel {
+    void imprimirLog(String mensagem);
+}
+
+abstract interface class Colorivel {
+    String cor;
+    void colorir();
+}
+
+
+CLASSES ABSTRATAS
+-----------------
+    - Uma classe abstrata não pode ser instanciada
+    - Ela não permite a criação de objetos do tipo dela
+
+Conta (abstract)
+- saldo
+- titular
++ sacar()
++ depositar()
++ aplicarJuros() (abstract)
+
+ContaCorrente extends Conta
++ aplicarJuros() - 10%
+
+ContaPoupanca extends Conta
++ aplicarJuros() - 25%
+
+ContaSalario extends Conta
++ aplicarJuros() > exibir erro!
+
+abstract class Conta {
+    int _saldo = 0;
+    late String _titular;
+
+    Conta(this._titular);
+
+    depositar() {
+        ...
+    }
+
+    retirar() {
+        ...
+    }
+
+    void aplicarJuros(); // sem implementação se torna abstrato 
+
+}
+
+

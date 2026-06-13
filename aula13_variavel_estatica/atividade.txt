@@ -1,0 +1,13 @@
+1) Crie uma classe chamada Pilha que simula o comportamento de uma pilha.
+
+a. Crie a pilha para ser genérica Pilha<T>
+
+b. Sobrescreva os operadores para realizar as seguintes operações:
+
+    pilha + item;      // empilha (+)
+    -pilha;            // desempilha (-)
+    pilha[i];          // acessa a posição i da pilha ([])
+
+c. Declare uma constante estática definindo o tamanho maximo da pilha
+
+    static const int MAX_TAM = 10;

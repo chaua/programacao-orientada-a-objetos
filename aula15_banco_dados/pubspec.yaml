@@ -1,0 +1,9 @@
+name: aula15_banco_dados_sqlite
+description: Exemplo didatico e simples de conexao com banco de dados SQLite em Dart.
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  sqlite3: any
