@@ -2,7 +2,7 @@
 noIndex: true
 icon: folder-open
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -18,7 +18,7 @@ layout:
   tags:
     visible: true
   actions:
-    visible: true
+    visible: false
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/rXEEaCo4s5Nzp0fD3eOo/projetos
@@ -26,3 +26,4 @@ metaLinks:
 
 # Projetos
 
+Exemplos realizados em aula: [https://github.com/chaua/programacao-orientada-a-objetos](https://github.com/chaua/programacao-orientada-a-objetos)
