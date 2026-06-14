@@ -17,6 +17,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/rXEEaCo4s5Nzp0fD3eOo/avaliacoes
@@ -81,6 +83,10 @@ metaLinks:
 
 17/06/2026\
 ✏️ **Prova 2º Bimestre**
+
+{% file src=".gitbook/assets/exercicios_2o_bimestre_gabarito.pdf" %}
+
+{% file src=".gitbook/assets/exercicios_2o_bimestre.pdf" %}
 
 ***
 
